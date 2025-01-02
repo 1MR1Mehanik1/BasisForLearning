@@ -1,0 +1,18 @@
+[
+  {
+    "modid": "basis_for_learning",
+    "name": "BasisForLearning",
+    "version": "0.1",
+    "mcversion": "1.12.2",
+    "authorList": [
+      "MRMehanik_ & Shadow - Authors and creators of the mod",
+      "Ranin_Koshatik - Creator of models"
+    ],
+    "url": "",
+    "updateUrl": "",
+    "logoFile": "banner.png",
+    "description": "Description text for the mod",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
